@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN,analytics.atlauncher.com
+  - DOMAIN,auxilium.ftb.team
+  - DOMAIN,beacon.quiltmc.org
+  - DOMAIN,metrics.shmeeb.net
+  - DOMAIN,openeye.openmods.info
+  - DOMAIN-SUFFIX,bstats.org
+  - DOMAIN-SUFFIX,mcmc.dev
+  - DOMAIN-SUFFIX,mcstats.org
+  - DOMAIN-SUFFIX,minecraft.cn
