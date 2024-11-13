@@ -1,0 +1,36 @@
+payload:
+  - DST-PORT,25565,DIRECT
+  - SRC-PORT,25565,DIRECT
+  - DOMAIN,ad.10010.com
+  - DOMAIN-SUFFIX,mojang.com,DIRECT
+  - DOMAIN-SUFFIX,minecraft.net,DIRECT
+  - DOMAIN-SUFFIX,minecraftservices.com,DIRECT
+  - DOMAIN-SUFFIX,hypixel.net,DIRECT
+  - DOMAIN-SUFFIX,syuu.net,DIRECT
+  - DOMAIN-SUFFIX,bedwarspractice.club,DIRECT
+  - DOMAIN-SUFFIX,blockmania.com,DIRECT
+  - DOMAIN-KEYWORD,lunarclient,DIRECT
+  - DOMAIN-KEYWORD,optifine,DIRECT
+  - DOMAIN-KEYWORD,minecraftforum,DIRECT
+  - DOMAIN-KEYWORD,curseforge,DIRECT
+  - DOMAIN-KEYWORD,planetminecraft,DIRECT
+  - DOMAIN-KEYWORD,minecraft.net,DIRECT
+  - DOMAIN-KEYWORD,spigotmc,DIRECT
+  - DOMAIN-KEYWORD,mcmod.cn,DIRECT
+  - DOMAIN-KEYWORD,minecraftskins,DIRECT
+  - DOMAIN-KEYWORD,minemap,DIRECT
+  - DOMAIN-KEYWORD,shadersmods,DIRECT
+  - DOMAIN-KEYWORD,modrinth,DIRECT
+  - DOMAIN-KEYWORD,minecraftwiki,DIRECT
+  - DOMAIN-KEYWORD,minecraftservers,DIRECT
+  - DOMAIN-KEYWORD,mcpehub,DIRECT
+  - DOMAIN-KEYWORD,minecraftlauncher,DIRECT
+  - DOMAIN-KEYWORD,texturepacks,DIRECT
+  - DOMAIN-KEYWORD,minecraftmaps,DIRECT
+  - DOMAIN-KEYWORD,minecraftforge,DIRECT
+  - DOMAIN-KEYWORD,forgecraft,DIRECT
+  - DOMAIN-KEYWORD,mcupdates,DIRECT
+  - DOMAIN-KEYWORD,mcjava,DIRECT
+  - DOMAIN-KEYWORD,minecraftbedrock,DIRECT
+  - DOMAIN-KEYWORD,hermitcraft,DIRECT
+
