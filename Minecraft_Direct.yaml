@@ -11,6 +11,11 @@ payload:
   - DOMAIN-SUFFIX,minemen.club
   - DOMAIN-SUFFIX,derozan.xyz
   - DOMAIN-SUFFIX,dmserver.xyz
+  - DOMAIN-KEYWORD,mojang
+  - DOMAIN-KEYWORD,minecraft
+  - DOMAIN-KEYWORD,minecraftservices
+  - DOMAIN-KEYWORD,cheatbreaker
+  - DOMAIN-KEYWORD,badlion
   - DOMAIN-KEYWORD,lunarclient
   - DOMAIN-KEYWORD,optifine
   - DOMAIN-KEYWORD,minecraftforum
