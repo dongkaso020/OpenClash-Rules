@@ -8,6 +8,3 @@ payload:
   - DOMAIN-SUFFIX,mcmc.dev
   - DOMAIN-SUFFIX,mcstats.org
   - DOMAIN-SUFFIX,minecraft.cn
-#ETC
-  - DOMAIN-KEYWORD,gore,REJECT
-  - DOMAIN-KEYWORD,rape,REJECT
