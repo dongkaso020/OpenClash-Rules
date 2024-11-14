@@ -14,9 +14,6 @@ payload:
   - DOMAIN-KEYWORD,mojang
   - DOMAIN-KEYWORD,minecraft
   - DOMAIN-KEYWORD,minecraftservices
-  - DOMAIN-KEYWORD,cheatbreaker
-  - DOMAIN-KEYWORD,badlion
-  - DOMAIN-KEYWORD,lunarclient
   - DOMAIN-KEYWORD,optifine
   - DOMAIN-KEYWORD,minecraftforum
   - DOMAIN-KEYWORD,curseforge
@@ -40,4 +37,3 @@ payload:
   - DOMAIN-KEYWORD,mcjava
   - DOMAIN-KEYWORD,minecraftbedrock
   - DOMAIN-KEYWORD,hermitcraft
-
